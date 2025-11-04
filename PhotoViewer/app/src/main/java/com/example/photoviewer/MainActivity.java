@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String KEY_DARK_MODE = "dark_mode";
 
     TextView textView;
-    String site_url = "http://10.0.2.2:8000";
+    String site_url = "https://jiminally.pythonanywhere.com";
     CloadImage taskDownload;
 
     // UI 컴포넌트
